@@ -1,0 +1,8 @@
+*.aux
+*.fls
+*.out
+*.log
+*.gz
+*.fdb_latexmk
+*.pdf
+*latex-pregled
