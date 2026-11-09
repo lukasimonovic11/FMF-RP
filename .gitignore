@@ -1,0 +1,13 @@
+*.aux
+*.fls
+*.out
+*.log
+*.gz
+*.fdb_latexmk
+*.pdf
+*latex-pregled
+*.bbl
+*.bib
+*.big
+*.blg
+*.toc
