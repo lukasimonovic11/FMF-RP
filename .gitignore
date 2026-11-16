@@ -11,3 +11,4 @@
 *.big
 *.blg
 *.toc
+!slika.pdf
