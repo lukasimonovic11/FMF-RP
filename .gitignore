@@ -12,3 +12,5 @@
 *.blg
 *.toc
 !slika.pdf
+*.nav
+*.snm
